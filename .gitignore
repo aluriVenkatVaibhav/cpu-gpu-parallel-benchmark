@@ -1,0 +1,26 @@
+
+# Build output
+/build/
+/cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.out
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Keep local benchmark outputs and source files tracked
